@@ -1,0 +1,112 @@
+#search {
+  color: white;
+}
+#shopname {
+  position: absolute;
+  width: 156px;
+  height: 26px;
+  left: 125px;
+  top: 84px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  color: #ffffff;
+}
+#img1 {
+  position: absolute;
+  width: 157px;
+  height: 115px;
+  left: 24px;
+  top: 140px;
+  background: #737373;
+  border-radius: 22px;
+}
+#img2 {
+  position: absolute;
+  width: 157px;
+  height: 110px;
+  left: 215px;
+  top: 140px;
+  background: #737373;
+  border-radius: 22px;
+}
+#img3 {
+  position: absolute;
+  width: 157px;
+  height: 125px;
+  left: 24px;
+  top: 280px;
+  background: #737373;
+  border-radius: 22px;
+}
+#img4 {
+  position: absolute;
+  width: 157px;
+  height: 125px;
+  left: 215px;
+  top: 280px;
+  background: #737373;
+  border-radius: 22px;
+}
+#img5 {
+  position: absolute;
+  width: 157px;
+  height: 125px;
+  left: 30px;
+  top: 444px;
+  background: #737373;
+  border-radius: 22px;
+}
+#img6 {
+  position: absolute;
+  width: 157px;
+  height: 125px;
+  left: 209px;
+  top: 444px;
+  background: #737373;
+  border-radius: 22px;
+}
+#img7 {
+  position: absolute;
+  width: 157px;
+  height: 125px;
+  left: 30px;
+  top: 601px;
+  background: #737373;
+  border-radius: 22px;
+}
+#img8 {
+  position: absolute;
+  width: 157px;
+  height: 125px;
+  left: 215px;
+  top: 601px;
+  background: #737373;
+  border-radius: 22px;
+}
+#buy {
+  position: absolute;
+  width: 234px;
+  height: 45px;
+  left: 78px;
+  top: 735px;
+  background: #0d303a;
+  border-radius: 20px;
+  font-family: "Inter";
+  font-weight: bolder;
+  font-size: 27px;
+}
+
+
+.footer{
+  text-align: center;
+  background: #000;
+}
+
+.icons{
+ padding: 20px;
+  margin-left: 20px;
+  
+}

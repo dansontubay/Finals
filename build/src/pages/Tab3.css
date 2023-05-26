@@ -1,0 +1,118 @@
+#img {
+  position: absolute;
+  width: 334px;
+  height: 304px;
+  left: 28px;
+  top: 79px;
+}
+#Register {
+  position: absolute;
+  width: 196px;
+  height: 80px;
+  left: 105px;
+  color: #ffff;
+  top: 50px;
+  font-family: "Courier New", Courier, monospace;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 40px;
+  line-height: 58px;
+}
+#email {
+  position: absolute;
+  width: 63px;
+  height: 31px;
+  left: 41px;
+  top: 347px;
+  color: #ffff;
+  font-family: cursive;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 20px;
+  line-height: 24px;
+}
+#pass {
+  position: absolute;
+  width: 99px;
+  height: 31px;
+  left: 41px;
+  top: 450px;
+  color: #ffff;
+  font-family: cursive;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 20px;
+  line-height: 24px;
+}
+#conpass {
+  position: absolute;
+  width: 186px;
+  height: 31px;
+  left: 41px;
+  top: 555px;
+  color: #ffff;
+  font-family: cursive;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 20px;
+  line-height: 24px;
+}
+#User {
+  position: absolute;
+  width: 332px;
+  height: 55px;
+  left: 29px;
+  top: 377px;
+  border-color: #0d303a;
+  mix-blend-mode: normal;
+  border-radius: 20px;
+  padding-left: 10px;
+}
+#Password {
+  position: absolute;
+  width: 332px;
+  height: 55px;
+  left: 29px;
+  top: 478px;
+  border-color: #0d303a;
+  border-radius: 20px;
+  padding-left: 10px;
+}
+#ConPassword {
+  position: absolute;
+  width: 332px;
+  height: 55px;
+  left: 29px;
+  top: 583px;
+  border-color: #0d303a;
+  border-radius: 20px;
+  padding-left: 10px;
+}
+#btn {
+  position: absolute;
+  width: 234px;
+  height: 54px;
+  left: 78px;
+  top: 675px;
+  color: #ffff;
+  background: #0d303a;
+  border: none;
+  border-radius: 20px;
+  font-family: cursive;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 30px;
+  line-height: 29px;
+}
+
+
+.footer{
+  text-align: center;
+  background: #000;
+}
+
+.icons{
+ padding: 20px;
+  margin-left: 20px;
+  
+}

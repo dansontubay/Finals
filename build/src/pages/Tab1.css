@@ -1,0 +1,103 @@
+#image {
+  position: absolute;
+  width: 334px;
+  height: 304px;
+  left: 28px;
+  top: 140px;
+}
+ion-content {
+  --ion-background-color: linear-gradient(to bottom, #999999 0%, #000000 55%);
+}
+#login {
+  position: absolute;
+  width: 283px;
+  height: 80px;
+  left: 130px;
+  top: 110px;
+  font-family: cursive;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 58px;
+  color: #ffffff;
+}
+#Email {
+  position: absolute;
+  width: 63px;
+  height: 31px;
+  left: 41px;
+  top: 400px;
+  font-family: cursive;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #ffffff;
+}
+#Pass {
+  position: absolute;
+  width: 99px;
+  height: 31px;
+  left: 41px;
+  top: 505px;
+  font-family: cursive;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  color: #ffffff;
+}
+#user {
+  position: absolute;
+  width: 332px;
+  height: 60px;
+  left: 29px;
+  top: 430px;
+  mix-blend-mode: normal;
+  border-radius: 20px;
+  border-color: #0d303a;
+  padding-left: 10px;
+}
+#password {
+  position: absolute;
+  width: 332px;
+  height: 60px;
+  left: 29px;
+  top: 535px;
+  border-radius: 20px;
+  border-color: #0d303a;
+  padding-left: 10px;
+}
+#btnl {
+  position: absolute;
+  width: 234px;
+  height: 54px;
+  left: 78px;
+  top: 625px;
+  background: #0d303a;
+  border-radius: 20px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 29px;
+  border: none;
+  color: #ffffff;
+}
+#Create {
+  position: absolute;
+  width: 210px;
+  height: 23px;
+  left: 104px;
+  top: 720px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  color: #ffffff;
+}
+a {
+  padding-left: 5px;
+}
